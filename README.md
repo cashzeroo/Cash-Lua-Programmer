@@ -3,10 +3,18 @@ Hey, I’m Cash, a Lua programmer with 3+ years of experience creating efficient
 
 # Skills:
 
-Game Systems:          UI & Interaction:       Backend:
+Game Systems:
+  - Obby Systems
+  - Quest Systems
+  - NPC Systems
 
-Obby Systems          Scripting UI          Datastore Systems
-Quest Systems         Dialogue Systems      Gamepass Systems
-NPC Systems
+UI & Interaction:
+  - Scripting UI
+  - Dialogue Systems
+
+Backend:
+  - Datastore Systems
+  - Gamepass Systems
+
 
   
