@@ -1,7 +1,7 @@
 # Cash-Lua-Programmer
 Hey, I’m Cash, a Lua programmer with 3+ years of experience creating efficient, scalable, and engaging solutions.
 
-# Skills:
+# I can create:
 
 Game Systems:
 - Obby Systems
